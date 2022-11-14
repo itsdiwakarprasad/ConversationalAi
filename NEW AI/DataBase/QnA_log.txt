@@ -1,0 +1,5 @@
+
+QUESTION : what is the time now 
+ANSWER : The time is 8:15 PM.
+QUESTION : what is light 
+ANSWER : Light is a type of electromagnetic radiation that is visible to the human eye. It is made up of tiny particles called photons.

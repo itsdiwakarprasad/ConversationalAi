@@ -1,0 +1,23 @@
+
+You : Yes 
+A.I. : You are welcome
+You : What's today 
+A.I. : Today is Wednesday.
+You : None 
+A.I. : I'm sorry, I don't understand.
+You : What is my name 
+A.I. : Your name is not provided.
+You : my name is divakar prasad 
+A.I. : Your name is Divakar Prasad.
+You : None 
+A.I. : I'm sorry, I don't understand.
+You : Hi! 
+A.I. : Hello!
+You : know what happens 
+A.I. : I'm sorry, I don't understand.
+You : What is my name 
+A.I. : Your name is not provided.
+You : Call me Diwakar 
+A.I. : Your name is Diwakar.
+You : None 
+A.I. : I'm sorry, I don't understand.
